@@ -1,0 +1,7 @@
+# CREDITRUST RAG CHATBOT
+.vscode/
+node_modules/
+.env
+.venv
+data/
+setup.py
