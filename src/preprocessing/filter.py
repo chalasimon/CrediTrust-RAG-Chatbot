@@ -1,9 +1,9 @@
 TARGET_PRODUCTS = [
     'Credit card', 
     'Personal loan', 
-    'Payday loan',
-    'Savings account', 
-    'Money transfer'
+    'Buy now, pay later',
+    'Saving account', 
+    'Money transfers'
 ]
 
 def filter_data(df):
