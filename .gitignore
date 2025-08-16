@@ -1,3 +1,4 @@
+
 # CREDITRUST RAG CHATBOT
 .vscode/
 node_modules/
@@ -5,3 +6,18 @@ node_modules/
 .venv
 data/
 setup.py
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Pytest cache
+.cache/
+# Coverage reports
+.coverage
+*.cover
+# Distribution / packaging
+.Python
